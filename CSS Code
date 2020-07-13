@@ -1,0 +1,17 @@
+h1{
+  color: dimgray;
+    font-style:times new roman;
+}
+body{
+  background-color: wheat;
+  margin: 20px;
+}
+canvas{
+  border: 1px solid gray;
+  height: 200px;
+  
+}
+
+input{
+  font-size:12pt;
+}
